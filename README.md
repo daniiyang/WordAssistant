@@ -5,9 +5,7 @@ WordAssistant
 ### Установка
 
 * Скачайте архив и распакуйте его.
-* Установите модуль config:
 
-      pip install config
 * Запустите скрипт напрямую или через консоль:
       
       python word_assistant.pyw
